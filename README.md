@@ -18,10 +18,12 @@ you can now write/read do as you wish with the memory
 
 3: THIS WILL NOT GET NEW UPDATES as its a base and only to teach people
 
+4: new upgrades/mods are always WELCOME :) 
+
 
 # usage ✅
 
-first proper credits to github for main source and whereu got ti from
+first proper credits to github for main source and whereu got it from
 
 always release x64 (may need to change build path its in project properties outout directory just put that to yours
 
