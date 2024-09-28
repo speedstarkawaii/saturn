@@ -20,6 +20,8 @@ you can now write/read do as you wish with the memory
 
 4: new upgrades/mods are always WELCOME :) 
 
+5: this needs to be updated. roblox offsets change a lot 
+
 
 # usage ✅
 
