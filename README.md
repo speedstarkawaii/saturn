@@ -22,6 +22,8 @@ you can now write/read do as you wish with the memory
 
 5: this needs to be updated. roblox offsets change a lot 
 
+6: ***ONLY*** works on HOMEPAGE. the in game method broke and it was a bit personal to release that part but as 4 says you can upgrade it yourself
+
 
 # usage ✅
 
